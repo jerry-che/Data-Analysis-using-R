@@ -1,0 +1,1 @@
+model <- lm(BMW$`City MPG`~BMW$`City CO2`)
